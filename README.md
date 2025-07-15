@@ -31,3 +31,9 @@ It interacts with the server’s REST API (see [Programming Laboratory Project �
 1. Open NetBeans and choose File > Open Project, then select this repository’s root folder.
 2. Right-click the project in the Projects pane and select Clean and Build.
 3. After build completion, right-click again and choose Run.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
