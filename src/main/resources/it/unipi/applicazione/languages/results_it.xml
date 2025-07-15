@@ -1,0 +1,14 @@
+<linguaggio_results>
+    <switchLanguageButton>Switch language</switchLanguageButton>
+    <getBackButton>Indietro</getBackButton>
+    <searchResultsLabel>Risultato della ricerca</searchResultsLabel>
+    <gameLabel>Giochi</gameLabel>
+    <characterLabel>Personaggi</characterLabel>
+    <monsterLabel>Mostri</monsterLabel>
+    <placeLabel>Posti</placeLabel>
+    <dungeonLabel>Dungeon</dungeonLabel>
+    <bossLabel>Boss</bossLabel>
+    <itemLabel>Oggetto</itemLabel>
+    <showDescriptionMI>Mostra descrizione</showDescriptionMI>
+    <addToFavoritesMI>Aggiungi ai preferiti</addToFavoritesMI>
+</linguaggio_results>

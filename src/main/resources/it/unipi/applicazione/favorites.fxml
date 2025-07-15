@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="myVBox" alignment="CENTER" spacing="20.0" style="-fx-background-color: #dfe6e9; -fx-padding: 20;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unipi.applicazione.FavoritesController">
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+   <children>
+      <Button fx:id="getBackButton" mnemonicParsing="false" onAction="#getBack" style="-fx-background-color: #e17055; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" text="Indietro" />
+      <Button fx:id="switchLanguageButton" mnemonicParsing="false" onAction="#switchLanguage" style="-fx-background-color: #fab1a0; -fx-text-fill: #2d3436; -fx-font-weight: bold; -fx-padding: 10;" text="Button" />
+      <Label fx:id="favoritesLabel" style="-fx-font-size: 20; -fx-font-weight: bold; -fx-text-fill: #2d3436;" text="Risultati della ricerca" />
+      <Label fx:id="gameLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #0984e3;" text="Giochi" />
+      <TableView fx:id="gameTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showGameDescriptionMI" mnemonicParsing="false" onAction="#showGameDescription" text="Mostra Descrizione" />
+                  <MenuItem fx:id="removeGameFromFavoritesMI" mnemonicParsing="false" onAction="#removeGameFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label fx:id="characterLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #00cec9;" text="Personaggi" />
+      <TableView fx:id="characterTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showCharacterDescriptionMI" mnemonicParsing="false" onAction="#showCharacterDescription" text="Unspecified Action" />
+                  <MenuItem fx:id="removeCharacterFromFavoritesMI" mnemonicParsing="false" onAction="#removeCharacterFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label fx:id="monsterLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #d63031;" text="Mostri" />
+      <TableView fx:id="monsterTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showMonsterDescriptionMI" mnemonicParsing="false" onAction="#showMonsterDescription" text="Unspecified Action" />
+                  <MenuItem fx:id="removeMonsterFromFavoritesMI" mnemonicParsing="false" onAction="#removeMonsterFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label fx:id="placeLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #6c5ce7;" text="Posti" />
+      <TableView fx:id="placeTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showPlaceDescriptionMI" mnemonicParsing="false" onAction="#showPlaceDescription" text="Unspecified Action" />
+                  <MenuItem fx:id="removePlaceFromFavoritesMI" mnemonicParsing="false" onAction="#removePlaceFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label fx:id="itemLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #2d3436;" text="Oggetti" />
+      <TableView fx:id="itemTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showItemDescriptionMI" mnemonicParsing="false" onAction="#showItemDescription" text="Unspecified Action" />
+                  <MenuItem fx:id="removeItemFromFavoritesMI" mnemonicParsing="false" onAction="#removeItemFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label fx:id="dungeonLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #e84393;" text="Dungeon" />
+      <TableView fx:id="dungeonTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showDungeonDescriptionMI" mnemonicParsing="false" onAction="#showDungeonDescription" text="Unspecified Action" />
+                  <MenuItem fx:id="removeDungeonFromFavoritesMI" mnemonicParsing="false" onAction="#removeDungeonFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+      <Label fx:id="bossLabel" style="-fx-font-size: 16; -fx-font-weight: bold; -fx-text-fill: #e74c3c;" text="Boss" />
+      <TableView fx:id="bossTable" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: #e1b12c; -fx-border-width: 2;">
+         <contextMenu>
+            <ContextMenu>
+               <items>
+                  <MenuItem fx:id="showBossDescriptionMI" mnemonicParsing="false" onAction="#showBossDescription" text="Unspecified Action" />
+                  <MenuItem fx:id="removeBossFromFavoritesMI" mnemonicParsing="false" onAction="#removeBossFromFavorites" text="Unspecified Action" />
+               </items>
+            </ContextMenu>
+         </contextMenu>
+      </TableView>
+   </children>
+</VBox>

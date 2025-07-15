@@ -1,0 +1,38 @@
+2025-01-12 15:17:51.908 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-12 16:51:17.906 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-12 18:37:17.967 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-12 20:20:07.243 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-12 20:20:09.510 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-12 20:20:09.530 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-12 20:20:27.768 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-12 20:20:27.769 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-12 20:20:29.260 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-12 20:20:29.261 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-12 20:20:29.805 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-12 20:20:29.806 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-12 20:20:30.934 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-12 20:20:30.938 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@70b7d52d
+2025-01-12 20:20:32.071 [Thread-7] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:20:32.072 [Thread-7] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 20:20:33.570 [Thread-8] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:20:33.571 [Thread-8] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 20:20:33.957 [Thread-9] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:20:33.958 [Thread-9] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 20:21:12.118 [Thread-10] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"User signed up successfully","statusCode":200}
+2025-01-12 20:21:13.253 [Thread-11] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Error: arleady existing user","statusCode":500}
+2025-01-12 20:22:27.202 [Thread-12] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:22:27.203 [Thread-12] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 20:38:31.656 [Thread-13] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:38:31.656 [Thread-13] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 20:39:23.669 [Thread-14] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:39:23.670 [Thread-14] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 20:39:25.655 [Thread-15] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 20:39:25.655 [Thread-15] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 22:57:05.612 [Thread-16] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 22:57:05.612 [Thread-16] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 23:05:40.384 [Thread-17] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 23:05:40.384 [Thread-17] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 23:09:39.772 [Thread-18] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Generic error interacting with the database","statusCode":500}
+2025-01-12 23:09:39.772 [Thread-18] INFO  it.unipi.applicazione.PrimaryController - Generic error interacting with the database
+2025-01-12 23:11:12.188 [Thread-19] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"The database has been populated successfully","statusCode":200}
+2025-01-12 23:11:12.189 [Thread-19] INFO  it.unipi.applicazione.PrimaryController - The database has been populated successfully

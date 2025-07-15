@@ -1,0 +1,105 @@
+2025-01-13 10:12:18.929 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:17:38.470 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:18:47.200 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:19:43.448 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:22:06.332 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:28:27.760 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:29:20.102 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:33:13.454 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:36:06.394 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:39:11.155 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:39:13.165 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 10:39:13.170 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@5fa4f4de
+2025-01-13 10:39:14.142 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 10:39:14.145 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@4e2de28d
+2025-01-13 10:39:17.372 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 10:52:04.361 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:54:24.197 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:54:29.512 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 10:54:29.516 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@5f71e51c
+2025-01-13 10:54:32.080 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 10:54:32.084 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@1edf367a
+2025-01-13 10:54:36.547 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 10:54:36.551 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@61d73210
+2025-01-13 10:54:37.687 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - There has been an error while trying to connect to the service. Please, try again.
+2025-01-13 10:54:40.281 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - There has been an error while trying to connect to the service. Please, try again.
+2025-01-13 10:54:41.150 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 10:54:41.154 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@2971b018
+2025-01-13 10:54:41.551 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 10:54:56.242 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 10:58:00.252 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 11:28:42.448 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 11:28:56.961 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 11:30:45.631 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-13 11:31:53.463 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-13 11:31:57.007 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-13 11:31:57.008 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-13 12:51:27.511 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 12:51:34.409 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-13 12:51:34.431 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-13 12:53:40.433 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-13 12:53:40.433 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-13 13:00:39.993 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 13:00:39.997 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@60b92f32
+2025-01-13 13:00:40.315 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 13:00:40.320 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@76751c06
+2025-01-13 13:00:40.611 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 13:00:40.616 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@46ad38e3
+2025-01-13 13:00:40.779 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - Sono qui
+2025-01-13 13:00:40.783 [JavaFX Application Thread] DEBUG it.unipi.applicazione.PrimaryController - it.unipi.applicazione.LinguaggioPrimary@71ec9de9
+2025-01-13 13:17:56.875 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-13 13:17:56.876 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-13 16:11:26.473 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore generico di interazione col database","statusCode":500}
+2025-01-13 16:11:26.474 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - Errore generico di interazione col database
+2025-01-13 16:12:20.006 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:14:07.499 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:19:50.961 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:23:59.604 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:25:20.304 [Thread-11] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Database popolato con successo","statusCode":200}
+2025-01-13 16:25:20.305 [Thread-11] INFO  it.unipi.applicazione.PrimaryController - Database popolato con successo
+2025-01-13 16:30:56.237 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 16:30:57.962 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:31:01.476 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Database popolato con successo","statusCode":200}
+2025-01-13 16:31:01.484 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:31:01.485 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:31:01.486 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:31:01.486 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:31:01.487 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 16:31:01.487 [Thread-10] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Database popolato con successo","statusCode":200}
+2025-01-13 16:31:01.509 [Thread-10] INFO  it.unipi.applicazione.PrimaryController - Database popolato con successo
+2025-01-13 16:31:01.509 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - Database popolato con successo
+2025-01-13 16:31:01.554 [Thread-11] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Database popolato con successo","statusCode":200}
+2025-01-13 16:31:01.554 [Thread-11] INFO  it.unipi.applicazione.PrimaryController - Database popolato con successo
+2025-01-13 16:37:44.830 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 16:37:53.237 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Database popolato con successo","statusCode":200}
+2025-01-13 16:37:53.258 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - Database popolato con successo
+2025-01-13 18:20:17.821 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 18:20:21.439 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-13 18:20:22.678 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-13 18:20:22.683 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/secondary.fxml:16
+
+2025-01-13 18:20:54.661 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-13 18:20:54.665 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/secondary.fxml:16
+
+2025-01-13 18:21:26.330 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 18:21:31.045 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Credenziali non valide. Per favore, riprova","statusCode":500}
+2025-01-13 18:21:33.189 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-13 18:21:33.196 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/secondary.fxml:18
+
+2025-01-13 22:38:30.765 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 23:13:41.789 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 23:13:46.342 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - La tua password non è corretta
+2025-01-13 23:13:52.191 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Credenziali non valide. Per favore, riprova","statusCode":500}
+2025-01-13 23:13:53.458 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Credenziali non valide. Per favore, riprova","statusCode":500}
+2025-01-13 23:14:01.972 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-13 23:24:38.508 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 23:24:55.628 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-13 23:24:58.091 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-13 23:24:59.958 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-13 23:30:20.169 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-13 23:30:23.052 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-13 23:30:24.362 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-13 23:30:26.715 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"La password è sbagliato. Per favore, riprova","statusCode":500}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.geometry.Insets?>
+
+<VBox fx:id="favoritestext" alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unipi.applicazione.FavoritesController">
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+   <children>
+      <Label text="Ecco i tuoi preferiti" />
+      <Label text="Giochi" />
+      <TableView fx:id="gameTable" prefHeight="200.0" prefWidth="200.0" />
+      <Label text="Personaggi" />
+      <TableView fx:id="characterTable" prefHeight="200.0" prefWidth="200.0" />
+      <Label text="Mostri" />
+      <TableView fx:id="monsterTable" prefHeight="200.0" prefWidth="200.0" />
+      <Label text="Posti" />
+      <TableView fx:id="placeTable" prefHeight="200.0" prefWidth="200.0" />
+      <Label text="Oggetti" />
+      <TableView fx:id="itemTable" prefHeight="200.0" prefWidth="200.0" />
+      <Label text="Dungeon" />
+      <TableView fx:id="dungeonTable" prefHeight="200.0" prefWidth="200.0" />
+      <Label text="Boss" />
+      <TableView fx:id="bosseTable" prefHeight="200.0" prefWidth="200.0" />
+   </children>
+</VBox>

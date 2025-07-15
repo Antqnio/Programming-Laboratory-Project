@@ -1,0 +1,16 @@
+<linguaggio_primary>
+        <usernameLabel>Username</usernameLabel>
+        <switchLanguageButton>Cambia lingua</switchLanguageButton>
+        <usr>Please, insert your username here</usr>
+        <pwd>Please, insert your password here</pwd>
+        <loginError>An error has occurred while trying to login. Please, try again</loginError>
+        <populateButton>Populate</populateButton>
+        <switchToRegistrationButton>Haven't you signed-up yet? Click here to sign-up</switchToRegistrationButton>
+        <switchToLoginButton>Are you arleady signed-up? Click here to sign-in</switchToLoginButton>
+        <sendRegistrationButton>Sign-up</sendRegistrationButton>
+        <passwordErrorMessage>Your password is not correct</passwordErrorMessage>
+        <usernameErrorMessage>Your username is not correct</usernameErrorMessage>
+        <connectionError>There has been an error while trying to connect to the service. Please, try again.</connectionError>
+        <loginButton>Sign-in</loginButton>
+</linguaggio_primary>
+

@@ -1,0 +1,31 @@
+2025-01-18 00:21:09.479 [main] INFO  it.unipi.applicazione.SecondaryControllerTest - testInitializeLanguageFields passed
+2025-01-18 00:21:51.830 [JavaFX Application Thread] ERROR it.unipi.applicazione.AbstractController - There has been an error while trying to connect to the service. Please, try again.
+2025-01-18 00:29:25.117 [Thread-3] INFO  it.unipi.applicazione.AbstractController - {"contenuto":"Database popolato con successo","statusCode":200}
+2025-01-18 00:29:25.168 [Thread-3] INFO  it.unipi.applicazione.AbstractController - Database popolato con successo
+2025-01-18 00:29:28.299 [Thread-4] INFO  it.unipi.applicazione.AbstractController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-18 00:29:29.300 [Thread-5] INFO  it.unipi.applicazione.AbstractController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-18 00:29:30.900 [Thread-6] INFO  it.unipi.applicazione.AbstractController - [{"name":"The Legend of Zelda: The Minish Cap","description":"The Legend of Zelda: The Minish Cap is the twelfth main installment of The Legend of Zelda series. It was released for the Game Boy Advance in 2004. ","releaseDate":"2005-01-09T23:00:00.000+00:00"}]
+2025-01-18 00:29:30.901 [Thread-6] INFO  it.unipi.applicazione.AbstractController - [{"name":"The Legend of Zelda: The Minish Cap","description":"The Legend of Zelda: The Minish Cap is the twelfth main installment of The Legend of Zelda series. It was released for the Game Boy Advance in 2004. ","releaseDate":"2005-01-09T23:00:00.000+00:00"}]
+2025-01-18 00:29:30.917 [Thread-6] INFO  it.unipi.applicazione.AbstractController - [{"name":"Caprice","description":"Caprice is a character in The Minish Cap. ","gender":null,"race":null},{"name":"Captain Keeta","description":"Captain Keeta, also known as Skull Keeta, is a mini-boss in Majora's Mask. ","gender":null,"race":null},{"name":"Captain Krin","description":"Captain Krin is a character featured in the The Legend of Zelda comics by Valiant Comics published by Valiant Comics. He is the soldier captain at the North Castle who will do anything to protect both the palace and the king. ","gender":null,"race":"Hylian"},{"name":"Captain Stalfos","description":"Captain Stalfos is a boss in Freshly-Picked Tingle's Rosy Rupeeland. He is the leader of the group of Pirates. In order for Tingle to join the pirate crew, he has to be dead. If he wants to survive, he must defeat the captain in a sword duel. If Tingle succeeds in this task, he will be given the Bone Ocarina, which may be used at any pier to call the pirate ship. ","gender":null,"race":"Pirate"}]
+2025-01-18 00:29:30.917 [Thread-6] INFO  it.unipi.applicazione.AbstractController - [{"name":"Caprice","description":"Caprice is a character in The Minish Cap. ","gender":null,"race":null},{"name":"Captain Keeta","description":"Captain Keeta, also known as Skull Keeta, is a mini-boss in Majora's Mask. ","gender":null,"race":null},{"name":"Captain Krin","description":"Captain Krin is a character featured in the The Legend of Zelda comics by Valiant Comics published by Valiant Comics. He is the soldier captain at the North Castle who will do anything to protect both the palace and the king. ","gender":null,"race":"Hylian"},{"name":"Captain Stalfos","description":"Captain Stalfos is a boss in Freshly-Picked Tingle's Rosy Rupeeland. He is the leader of the group of Pirates. In order for Tingle to join the pirate crew, he has to be dead. If he wants to survive, he must defeat the captain in a sword duel. If Tingle succeeds in this task, he will be given the Bone Ocarina, which may be used at any pier to call the pirate ship. ","gender":null,"race":"Pirate"}]
+2025-01-18 00:29:30.931 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.931 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.943 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.944 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.955 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.955 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.965 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.965 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.976 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:30.977 [Thread-6] INFO  it.unipi.applicazione.AbstractController - []
+2025-01-18 00:29:36.826 [Thread-7] INFO  it.unipi.applicazione.AbstractController - {"contenuto":"OK","statusCode":200}
+2025-01-18 00:29:36.828 [Thread-7] INFO  it.unipi.applicazione.AbstractController - OK
+2025-01-18 00:29:37.971 [Thread-8] INFO  it.unipi.applicazione.AbstractController - [{"name":"The Legend of Zelda: The Minish Cap","description":"The Legend of Zelda: The Minish Cap is the twelfth main installment of The Legend of Zelda series. It was released for the Game Boy Advance in 2004. ","releaseDate":"2005-01-10"}]
+2025-01-18 00:29:37.994 [Thread-8] INFO  it.unipi.applicazione.AbstractController - 
+2025-01-18 00:29:38.025 [Thread-8] INFO  it.unipi.applicazione.AbstractController - 
+2025-01-18 00:29:38.071 [Thread-8] INFO  it.unipi.applicazione.AbstractController - 
+2025-01-18 00:29:38.095 [Thread-8] INFO  it.unipi.applicazione.AbstractController - 
+2025-01-18 00:29:38.118 [Thread-8] INFO  it.unipi.applicazione.AbstractController - 
+2025-01-18 00:29:38.140 [Thread-8] INFO  it.unipi.applicazione.AbstractController - 
+2025-01-18 00:29:40.260 [Thread-9] INFO  it.unipi.applicazione.AbstractController - {"contenuto":"OK","statusCode":200}
+2025-01-18 00:29:40.262 [Thread-9] INFO  it.unipi.applicazione.AbstractController - OK

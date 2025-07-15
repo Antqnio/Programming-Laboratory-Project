@@ -1,0 +1,14 @@
+<linguaggio_favorites>
+    <switchLanguageButton>Cambia lingua</switchLanguageButton>
+    <getBackButton>Get back</getBackButton>
+    <favoritesLabel>Your favorites</favoritesLabel>
+    <gameLabel>Games</gameLabel>
+    <characterLabel>Characters</characterLabel>
+    <monsterLabel>Monsters</monsterLabel>
+    <placeLabel>Places</placeLabel>
+    <dungeonLabel>Dungeons</dungeonLabel>
+    <itemLabel>Items</itemLabel>
+    <bossLabel>Bosses</bossLabel>
+    <showDescriptionMI>Show description</showDescriptionMI>
+    <removeFromFavoritesMI>Remove from favorites</removeFromFavoritesMI>
+</linguaggio_favorites>

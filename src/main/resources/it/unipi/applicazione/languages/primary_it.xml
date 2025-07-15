@@ -1,0 +1,16 @@
+<linguaggio_primary>
+        <usernameLabel>Nome Utente</usernameLabel>
+        <switchLanguageButton>Switch language</switchLanguageButton>
+        <usr>Per favore, Inserisci qui il nome utente</usr>
+        <pwd>Per favore, Inserisci qui la password</pwd>
+        <loginError>C'è stato un errore in fase di login. Ritenta, per favore</loginError>
+        <populateButton>Popola</populateButton>
+        <switchToRegistrationButton>Non sei ancora registrato? Registrati</switchToRegistrationButton>
+        <switchToLoginButton>Sei già registrato? Clicca qui per fare il login</switchToLoginButton>
+        <sendRegistrationButton>Registrati</sendRegistrationButton>
+        <passwordErrorMessage>La tua password non è corretta</passwordErrorMessage>
+        <usernameErrorMessage>Il tuo username non è corretto</usernameErrorMessage>
+        <connectionError>C'è stato un errore cercando di connettersi al servizio. Per favore, riprova</connectionError>
+        <loginButton>Accedi</loginButton>
+</linguaggio_primary>
+

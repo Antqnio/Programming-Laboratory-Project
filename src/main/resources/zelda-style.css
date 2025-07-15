@@ -1,0 +1,89 @@
+/* Stile principale per l'applicazione di login "The Legend of Zelda" */
+
+/* Impostazioni generali */
+.root {
+    -fx-font-family: "Verdana";
+    -fx-background-color: linear-gradient(to bottom, #2d2d2d, #1e1e1e);
+}
+
+/* Stile per il contenitore principale */
+.container {
+    -fx-background-color: rgba(0, 0, 0, 0.7);
+    -fx-border-color: #f4d742;
+    -fx-border-width: 3px;
+    -fx-border-radius: 10px;
+    -fx-padding: 20px;
+    -fx-background-radius: 10px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 10, 0.5, 0, 0);
+}
+
+/* Testo e label */
+.label {
+    -fx-text-fill: #f4d742;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+/* Campi di testo */
+.text-field, .password-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #f4d742;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+}
+
+/* Pulsanti */
+.button {
+    -fx-background-color: linear-gradient(to bottom, #65a567, #447744);
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 8px 15px;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom, #79c57d, #558855);
+    -fx-cursor: hand;
+}
+
+/* Pulsanti speciali */
+#switchLanguageButton {
+    -fx-background-color: linear-gradient(to bottom, #0077b3, #005e8a);
+}
+
+#switchLanguageButton:hover {
+    -fx-background-color: linear-gradient(to bottom, #0099dd, #0077b3);
+}
+
+#populateButton {
+    -fx-background-color: linear-gradient(to bottom, #e6b800, #b38f00);
+}
+
+#populateButton:hover {
+    -fx-background-color: linear-gradient(to bottom, #ffd11a, #cc9900);
+}
+
+/* Messaggi nascosti */
+.hidden-text {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-text-fill: red;
+    -fx-opacity: 0;
+    -fx-transition: opacity 0.5s ease-in-out;
+}
+
+.hidden-text.visible {
+    -fx-opacity: 1;
+}
+
+/* Sfondo con immagine */
+.root {
+    -fx-background-image: url("background-zelda.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}

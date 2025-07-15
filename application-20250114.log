@@ -1,0 +1,132 @@
+2025-01-14 00:25:04.786 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:25:09.306 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 00:25:10.265 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 00:26:01.032 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:26:05.698 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 00:26:06.557 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 00:27:02.436 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:27:05.068 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 00:27:05.785 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 00:40:32.931 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:40:37.631 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 00:40:38.284 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 00:46:04.489 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:46:07.941 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 00:46:10.389 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 00:46:11.388 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 00:46:13.139 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:46:13.150 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:46:15.936 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:46:15.946 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:46:18.160 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:46:18.170 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:46:25.823 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:46:25.832 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:46:36.483 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:46:36.504 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:19.957 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:19.966 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:20.247 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:20.256 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:20.383 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:20.392 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:20.515 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:20.524 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:20.636 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:20.643 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:20.755 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:20.763 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:34.652 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:37.433 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 00:56:39.918 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:39.930 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:41.043 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:41.071 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 00:56:41.715 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 00:56:41.725 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 01:00:06.327 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 01:02:00.650 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 01:02:04.530 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 01:17:02.918 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 01:17:17.079 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 01:17:18.196 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 01:17:29.792 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 01:17:30.623 [Thread-6] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 01:17:32.087 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 01:17:32.112 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 01:17:37.414 [Thread-7] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 01:17:37.998 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 01:17:38.007 [JavaFX Application Thread] INFO  it.unipi.applicazione.PrimaryController - Test
+2025-01-14 12:42:38.272 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 12:42:39.214 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:16:04.793 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:16:04.812 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/secondary.fxml
+
+2025-01-14 15:24:41.081 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:41.688 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:41.889 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:42.222 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:42.363 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:42.942 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.095 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.229 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.365 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.504 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.656 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.807 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:43.945 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.088 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.211 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.342 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.475 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.596 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.726 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:44.980 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:45.133 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:45.280 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:45.416 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:45.558 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:45.710 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:45.869 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:46.053 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:46.205 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:46.413 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:46.562 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 15:24:47.427 [Thread-33] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 15:24:47.427 [Thread-36] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-14 15:24:47.427 [Thread-34] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-14 15:24:47.427 [Thread-35] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-14 15:24:47.553 [Thread-37] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-14 15:24:47.706 [Thread-38] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Errore: utente già registrato","statusCode":500}
+2025-01-14 15:24:49.040 [Thread-39] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:24:49.067 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/secondary.fxml
+
+2025-01-14 15:24:49.713 [Thread-40] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:24:49.721 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/secondary.fxml
+
+2025-01-14 15:34:12.171 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:40:05.420 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:40:13.036 [JavaFX Application Thread] INFO  it.unipi.applicazione.SecondaryController - username = a, password = a
+2025-01-14 15:40:15.104 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - Il tuo username non è corretto
+2025-01-14 15:40:16.894 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 15:41:42.771 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 16:01:55.627 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 16:01:56.563 [JavaFX Application Thread] ERROR it.unipi.applicazione.SecondaryController - 
+/C:/Users/Antonio/Documents/NetBeansProjects/Applicazione/target/classes/it/unipi/applicazione/favorites.fxml
+
+2025-01-14 16:03:54.926 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 16:19:43.726 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 16:37:54.776 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 16:37:56.149 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 17:02:52.306 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 17:03:54.802 [JavaFX Application Thread] ERROR it.unipi.applicazione.PrimaryController - C'è stato un errore cercando di connettersi al servizio. Per favore, riprova
+2025-01-14 17:04:10.875 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 17:04:11.860 [Thread-5] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 17:06:10.799 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 17:16:09.451 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Utente registrato con successo","statusCode":200}
+2025-01-14 17:16:10.626 [Thread-4] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 17:16:39.228 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
+2025-01-14 17:17:41.959 [Thread-3] INFO  it.unipi.applicazione.PrimaryController - {"contenuto":"Accesso effettuato con successo","statusCode":200}
